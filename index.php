@@ -6,6 +6,7 @@
 </head>
 
 <body>
-	<div>Try GitHub for FirstTime</div>
+	<header>Try GitHub for FirstTime</header>
+    <footer>&copy 2018</footer>
 </body>
 </html>
