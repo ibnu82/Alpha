@@ -7,6 +7,6 @@
 
 <body>
 	<header>Try GitHub for FirstTime</header>
-    <footer>&copy 2018</footer>
+	<footer>&copy 2018</footer>
 </body>
 </html>
