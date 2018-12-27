@@ -6,6 +6,6 @@
 </head>
 
 <body>
-	Try GitHub for FirstTime
+	<div>Try GitHub for FirstTime</div>
 </body>
 </html>
